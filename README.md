@@ -1,4 +1,5 @@
 **Rainfall Prediction Classifier - Final Project**
+
 Project Overview
 This project focuses on building a machine learning classifier to predict rainfall in the Melbourne area using historical weather data from the Australian Bureau of Meteorology. The goal is to explore feature engineering, build classifier pipelines, optimize models using grid search cross-validation, and evaluate model performance.
 
